@@ -11,3 +11,29 @@
 #contenedor_3{
     color: black;
 }
+
+div{
+    font-size: 40px;
+    color: blue;
+}
+
+#padre_html_3 h1 {
+    color: black;
+    text-decoration: underline;
+}
+
+.success{
+    background-color: aquamarine;
+    color: black;
+}
+
+.error{
+    background-color: red;
+    color: #fff;
+}
+
+.alert-primary {
+   color: black;
+   background-color: darkorchid;
+   border-color: gold;
+}
